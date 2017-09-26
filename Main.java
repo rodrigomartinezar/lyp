@@ -23,7 +23,7 @@ public class Main {
             break;
         }
         catch (ArrayIndexOutOfBoundsException e){
-            System.out.println("Escribe la wea");
+            System.out.println("Ingrese numero entre 0 y 7");
         }}
         // 5. creamos una instancia de trago
         Trago trago = new AguaTonica();
